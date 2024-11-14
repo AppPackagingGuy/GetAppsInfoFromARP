@@ -1,15 +1,10 @@
 Get information about the installed applications from the 'Programs and Features'.
 
      - Publisher,
-     
      - DisplayName,
-     
      - DisplayVersion,
-     
      - InstallLocation,
-     
      - GUID,
-     
      - UninstallString.
      
 Entries with the "SystemComponent = 1" will be ignored.
